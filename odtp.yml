@@ -15,7 +15,7 @@ tools:
   - tool-name: Test Preprocessing
     tool-author: Jan Aarts
     tool-version: v0.1.0
-    tool-repository: ttps://github.com/vodor001/test_preprocess.git
+    tool-repository: ttps://github.com/vodor001/test_preprocess.py.git
     tool-license: MIT license
 
 # If your tool require some secrets token to be passed as ENV to the component
