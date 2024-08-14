@@ -31,7 +31,7 @@ ln -s /odtp/odtp-input/test_preprocess/data /odtp/odtp-workdir/test_preprocess/d
 # 4. TOOL EXECUTION
 # While the output is managed by ODTP and placed in /odtp/odtp-output/
 #########################################################
-python preprocess.py /odtp/odtp-input/test_preprocess/data
+python preprocess.py /../../odtp-input/test_preprocess/data
 
 # COMMAND $PARAMETER_A #PARAMETER_B /odtp/odtp-input/data
 
