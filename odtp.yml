@@ -2,7 +2,7 @@
 component-name: ADT Test Preprocessing
 component-author: Kristina Vodorezova
 component-version: v0.1.0
-component-repository: https://github.com/vodor001/adt_test_preprocess.git
+component-repository: https://github.com/vodor001/adt_test_preprocess.py.git
 component-license: BSD-3 license
 component-type: ephemeral or interactive
 component-description: merging multiple csvs into one (test)
